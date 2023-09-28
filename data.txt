@@ -1,0 +1,16 @@
+Remaining Stock: 72
+Queue 1
+Customer Id 2 customer name :e w -ordered pizza's : 2
+Customer Id 4 customer name :e  -ordered pizza's : 2
+
+Queue 2
+Customer Id 4 customer name :d s -ordered pizza's : 2
+Customer Id 5 customer name :o d -ordered pizza's : 2
+
+Queue 3
+Customer Id 5 customer name :de s -ordered pizza's : 3
+Customer Id 4 customer name :ii r -ordered pizza's : 3
+Customer Id 4 customer name :f f -ordered pizza's : 5
+Customer Id 6 customer name :jj l -ordered pizza's : 5
+Customer Id 5 customer name :c c -ordered pizza's : 4
+
